@@ -1,4 +1,4 @@
-raphCalcX is a feature-rich symbolic and graphical calculator built entirely in Python. Whether you're a high school student, university researcher, or a curious learner, GraphCalcX is your all-in-one companion for solving equations, plotting functions, and exploring advanced mathematical concepts — no AI query required.
+GraphCalcX is a feature-rich symbolic and graphical calculator built entirely in Python. Whether you're a high school student, university researcher, or a curious learner, GraphCalcX is your all-in-one companion for solving equations, plotting functions, and exploring advanced mathematical concepts — no AI query required.
 ⚙️ Features
 🧠 Symbolic Computation (Powered by SymPy)
 
